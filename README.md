@@ -51,7 +51,7 @@ bar-management-system/
 ⚙️ Installation
 
 # Clone the repository
-git clone https://github.com/your-username/bar-management-system
+git clone https://github.com/Mr-Wolf-h/bar-management-system
 
 # Navigate into the project
 cd bar-management-system
