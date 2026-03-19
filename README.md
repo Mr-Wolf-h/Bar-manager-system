@@ -66,13 +66,12 @@ npm start
 
 📸 Screenshots
 
-(Add your application screenshots here)
 
 ---
 
 🌍 Live Demo
 
-(Add your deployed link here – Vercel / Render)
+
 
 ---
 
